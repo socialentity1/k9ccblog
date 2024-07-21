@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+K9CC - Nhà cái uy tín top 1 châu Á và Việt Nam - k9cc.blog
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `K9CC <https://k9cc.blog/>`_ là nhà cái được cấp phép bởi PAGCOR - Tập đoàn quản lý giải trí và trò chơi của Philippines. Nhà cái nổi tiếng với những trò chơi cá cược về mảng Casino, game bài, slots, bắn cá. Với sự phát triển của công nghệ 4.0, nhà cái cũng cho ra mắt những ứng dụng hàng đầu trên cả IOS và Android.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 33/10/16 Trần Quang Cơ, Phú Thạnh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0860055850. 
 
-Contents
---------
+Email: info@k9cc.blog. 
 
-.. toctree::
+Website: https://k9cc.blog/
 
-   usage
-   api
+Author: https://k9cc.blog/coo-dinh-max/
+
+#k9cc #k9 #k9_cc #k9ccblog #k9cc_blog #nhacaik9cc #k9cccasino
